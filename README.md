@@ -3,7 +3,7 @@
 ## 🚀 AI/ML Engineer focusing on applied AI
 
 📍 **United State**  
-📧 **Email:** [ishadabsiddiqui@gmail.com](ishadabsiddiqui@gmail.com)  
+📧 **Email:** [ishadabsiddiqui@gmail.com](mailto:ishadabsiddiqui@gmail.com)  
 🔗 **LinkedIn:** [ishadabsiddiqui](https://www.linkedin.com/in/ishadabsiddiqui/)  
 👨‍💻 **GitHub:** [Ishadabsiddiqui](https://github.com/Ishadabsiddiqui)
 
