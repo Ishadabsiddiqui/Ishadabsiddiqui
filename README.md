@@ -1,12 +1,28 @@
-- 👋 Hi, I’m Shadab
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hello, I'm Shadab Siddiqui!
 
-<!---
-shadab595/shadab595 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 AI/ML Engineer focusing on applied AI
+
+📍 **United State**  
+📧 **Email:** [ishadabsiddiqui@gmail.com](ishadabsiddiqui@gmail.com)  
+🔗 **LinkedIn:** [ishadabsiddiqui](https://www.linkedin.com/in/ishadabsiddiqui/)  
+👨‍💻 **GitHub:** [Ishadabsiddiqui](https://github.com/Ishadabsiddiqui)
+
+
+### About Me 🌐
+combining over 2 years of experience in ML, NLP, and Software Engineering, I transform data and language into impactful solutions and experiences.
+
+### Tech Toolbox 🛠️
+- **Languages:** Python, SQL, JavaScript, Java
+- **Frameworks & Libraries:** PyTorch, Langchain, Vector Databases, Huggingface, SpaCy
+- **Tools:** AWS, GCP, Docker, Git
+- **Specialties:** LLMs, Generative AI, NLP, Search
+
+### Education 🎓
+- **Masters in CSE**, Dr. APJ Abdul Kalam Technical University Lucknow
+- **Bachelors in CSE**,Dr. APJ Abdul Kalam Technical University Lucknow
+
+### Certifications 📜
+- **Coursera:** Deep Learning, Machine Learning, Mathematics for ML Specializations
+- **Udacity:** NLP, ML, React Nanodegrees
+
+🔗 Let's use AI to brainstorm, create, and create amazing experiences. Please get in touch if you want to talk or collaborate!
