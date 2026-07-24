@@ -28,9 +28,9 @@ Welcome to my GitHub! I'm a passionate Full Stack Developer with experience buil
 
 ### 📫 Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/shadab703)
-- [Twitter](https://twitter.com/shadab703)
-- [Email](mailto:your.email@example.com)
+- [LinkedIn](https://linkedin.com/in/ishadabsiddiqui)
+- [Twitter](https://twitter.com/ishadabsiddiqui)
+- [Email](mailto:ishadabsiddiqui@gmail.com)
 
 ---
 
