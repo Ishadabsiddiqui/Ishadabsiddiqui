@@ -17,13 +17,6 @@ Welcome to my GitHub! I'm a passionate Full Stack Developer with experience buil
 
 ---
 
-### 📈 GitHub Stats
-
-![Shadab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shadab703&show_icons=true&hide_title=true&count_private=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shadab703&layout=compact&theme=radical)
-
----
-
 ### 🌟 Featured Projects
 
 - [Gocart Ecommerce](https://github.com/shadab703/gocart-ecommerce) – Modern e-commerce platform
